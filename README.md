@@ -70,6 +70,13 @@ JJ-Explorer does not collect or send any usage data. It connects to the internet
 
 JJ-Explorer uses Qt (LGPL), 7-Zip (LGPL), libcurl, DOSBox Staging and DOSBox-X (GPL), and the DOSMyungjo font (MIT).
 
+## Support
+
+JJ-Explorer is free to use. If it is useful to you, you can support its development:
+
+- **GitHub Sponsors** (card, monthly or one time): https://github.com/sponsors/hanulso78
+- **Bank transfer in Korea**: KakaoBank `3333346492333` (민인학)
+
 ## Contact
 
 Questions and feedback: https://groups.google.com/g/jj-explorer2
