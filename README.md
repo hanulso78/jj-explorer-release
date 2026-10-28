@@ -6,7 +6,7 @@ A file manager for Windows that brings back the look and feel of Mdir, the class
 
 This repository only hosts the release files. Each release contains a zip file with the program and its manual.
 
-The program and its manual are in Korean.
+The program and its manual are available in Korean and English. Choose the language in **Settings → Program Settings → Others → Language**; it switches at once without restarting.
 
 ## Features
 
