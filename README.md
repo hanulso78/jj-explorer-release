@@ -70,6 +70,10 @@ The program and its manual are available in Korean and English. Choose the langu
 
 ![Command palette listing the photo tools for the search word 사진](screenshots/command-palette.png)
 
+**JCD folder tree (F10).** The classic DOS style folder tree covers the window. Move with the arrow keys and press Enter to go to a folder, or make, rename and delete folders right there. A Norton NCD style layout is also available.
+
+![JCD folder tree with the plugins folder expanded](screenshots/jcd.png)
+
 **Folder size treemap.** Each rectangle is sized by the space a file or folder takes. Click a folder to go inside.
 
 ![Treemap of the program folder: plugins, the program file, audio, help and fonts](screenshots/treemap.png)
