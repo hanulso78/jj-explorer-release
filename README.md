@@ -74,6 +74,10 @@ The program and its manual are available in Korean and English. Choose the langu
 
 ![A floppy disk image opened in a panel, with a PCX picture from it in Quick View](screenshots/disk-image.png)
 
+**CD images.** BIN/CUE, CCD/IMG, MDS/MDF and NRG images open like folders too. The files of the data track and the audio tracks appear side by side, and each audio track becomes a WAV file named from the CUE track title, ready to play or copy out. The Plugins menu converts images to ISO and WAV and verifies them.
+
+![A BIN/CUE image with a data track and four audio tracks, and a text file from it in Quick View](screenshots/cd-image.png)
+
 **Command palette (Ctrl+K).** Type part of a name, or Korean initial sounds, to find any command with its menu and shortcut key.
 
 ![Command palette listing the photo tools for the search word 사진](screenshots/command-palette.png)
