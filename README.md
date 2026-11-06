@@ -78,6 +78,10 @@ The program and its manual are available in Korean and English. Choose the langu
 
 ![Thumbnail view of screenshots, with Quick View showing the selected picture](screenshots/thumbnails.png)
 
+**Music player.** Play music from a panel without leaving it. The play bar at the bottom shows the track, time and volume, and the playlist (Ctrl+Alt+Y) lets you jump, remove and reorder tracks. Quick View shows the tags and format of the file under the cursor.
+
+![Music player: playlist, play bar and Quick View with track information](screenshots/music-player.png)
+
 **Folder size treemap.** Each rectangle is sized by the space a file or folder takes. Click a folder to go inside.
 
 ![Treemap of the program folder: plugins, the program file, audio, help and fonts](screenshots/treemap.png)
