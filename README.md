@@ -66,6 +66,10 @@ The program and its manual are available in Korean and English. Choose the langu
 
 ## Screenshots
 
+**Quick View (Ctrl+W).** Shows the file under the cursor in the next panel without opening another program. From top left: a text file, the same file in hex (H), a zip file with its compression method, a Windows program, a DOS Hangul bitmap font, and an AdLib instrument bank.
+
+![Six Quick View modes: text, hex, zip contents, program information, DOS font and AdLib instrument bank](screenshots/quick-view.png)
+
 **Command palette (Ctrl+K).** Type part of a name, or Korean initial sounds, to find any command with its menu and shortcut key.
 
 ![Command palette listing the photo tools for the search word 사진](screenshots/command-palette.png)
