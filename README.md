@@ -70,6 +70,10 @@ The program and its manual are available in Korean and English. Choose the langu
 
 ![Six Quick View modes: text, hex, zip contents, program information, DOS font and AdLib instrument bank](screenshots/quick-view.png)
 
+**Disk images.** Press Enter on a floppy or hard disk image to open it like a folder. Here a 1.44 MB floppy image (IMA) shows its DOS files with their original dates, and Quick View shows a PCX picture inside it. You can also copy files in and out, rename and delete them, and create, check and defragment images from the Plugins menu.
+
+![A floppy disk image opened in a panel, with a PCX picture from it in Quick View](screenshots/disk-image.png)
+
 **Command palette (Ctrl+K).** Type part of a name, or Korean initial sounds, to find any command with its menu and shortcut key.
 
 ![Command palette listing the photo tools for the search word 사진](screenshots/command-palette.png)
