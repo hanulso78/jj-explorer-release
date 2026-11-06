@@ -64,6 +64,22 @@ The program and its manual are available in Korean and English. Choose the langu
 - 13 dialog styles: Windows 3.1, 95, 98 and 2000, OS/2 Warp, Mac OS 8, Motif, NeXTSTEP, BeOS, Turbo Vision, GeoWorks Ensemble, light and dark
 - Color files, including Norton Utilities, classic Korean DOS tools and Sublime Text color schemes
 
+## Screenshots
+
+**Command palette (Ctrl+K).** Type part of a name, or Korean initial sounds, to find any command with its menu and shortcut key.
+
+![Command palette listing the photo tools for the search word 사진](screenshots/command-palette.png)
+
+**Folder size treemap.** Each rectangle is sized by the space a file or folder takes. Click a folder to go inside.
+
+![Treemap of the program folder: plugins, the program file, audio, help and fonts](screenshots/treemap.png)
+
+**Dialog styles and color files.** The same screen in the Windows 95 style with the windows95 color file, and in the Turbo Vision style with the turbovision color file. Quick View follows the panel colors, like the Turbo C editor.
+
+![The main window in the Windows 95 style](screenshots/style-windows95.png)
+
+![The main window in the Turbo Vision style](screenshots/style-turbovision.png)
+
 ## Requirements
 
 - Windows 10 (version 1809 or later) or Windows 11, 64-bit
