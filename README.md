@@ -2,7 +2,7 @@
 
 A file manager for Windows that brings back the look and feel of Mdir, the classic DOS file manager. Text-mode screen, bitmap Korean fonts and keyboard-first control, with the Windows features you expect: Recycle Bin, clipboard, shell context menus and long file names.
 
-![JJ-Explorer with four panels: file lists, folder tree and picture preview](screenshot.png)
+![JJ-Explorer with four panels: a file list with panel tabs, Quick View with syntax highlighting, a tree panel and a zip file opened like a folder](screenshot.png)
 
 **[Download the latest version](https://github.com/hanulso78/jj-explorer-release/releases/latest)**
 
