@@ -54,7 +54,8 @@ The program and its manual are available in Korean and English. Choose the langu
 - Image conversion, lossless JPEG rotation and photo organizing by date
 - Folder size treemap, checksums (CRC32, MD5, SHA-1, SHA-256), file split and join, and a check for programs that lock a file, with handle closing
 - Disk cleanup, startup programs, installed programs and process list
-- Music player for MP3, FLAC, Ogg, MIDI, tracker modules (MOD, S3M, XM, IT) and AdLib formats
+- Music player for MP3, FLAC, Ogg, MIDI, tracker modules (MOD, S3M, XM, IT), AdLib formats, Korean karaoke songs and Furnace (FUR)
+- Quick View for songs: synced lyrics, album covers, a whole-song waveform, tracker patterns and channel views with channel muting, and a karaoke window
 - Viewers for old formats through plugins: DOS pictures (PCX and more), Hangul documents (HWP), DOCX, PPTX, ODT, EPUB, PDF and more
 - Run DOS programs and games with DOSBox Staging or DOSBox-X
 - Screen savers
@@ -128,11 +129,11 @@ Close the program and delete its folder. All settings are stored in that folder 
 
 ## Privacy
 
-JJ-Explorer does not collect or send any usage data. It connects to the internet only when you click Check for updates (and then only to this GitHub repository), or when you connect to an FTP, SFTP, WebDAV or S3 server yourself.
+JJ-Explorer does not collect or send any usage data. It connects to the internet only when you click Check for updates (and then only to this GitHub repository), when you connect to an FTP, SFTP, WebDAV or S3 server yourself, and through these plugins when Quick View shows a song: lyrics (ALSong and LRCLIB receive the song name and length) and online album covers (iTunes and MusicBrainz receive the artist, album and title). Turn any of these plugins off in **Plugins → Manage Plugins**.
 
 ## License
 
-JJ-Explorer uses Qt (LGPL), 7-Zip (LGPL), libcurl, TagLib (MPL), libjpeg-turbo (BSD, IJG), DOSBox Staging and DOSBox-X (GPL), and the DOSMyungjo font (MIT). The music player uses AdPlug, Nuked OPL3, mpg123 and libsndfile (LGPL), and libopenmpt, FLAC, Ogg Vorbis, Opus and Monkey's Audio (BSD). This software is based in part on the work of the Independent JPEG Group.
+JJ-Explorer uses Qt (LGPL), 7-Zip (LGPL), libcurl, TagLib (MPL), libjpeg-turbo (BSD, IJG), DOSBox Staging and DOSBox-X (GPL), and the DOSMyungjo font (MIT). The music player uses AdPlug, Nuked OPL3, mpg123 and libsndfile (LGPL), and libopenmpt, FLAC, Ogg Vorbis, Opus and Monkey's Audio (BSD). Furnace songs are played by `audio/jj-fur.exe`, a separate program built on the Furnace engine and distributed under the GPL version 2 or later; its source is included as `audio/jj-fur-source.zip`. This software is based in part on the work of the Independent JPEG Group.
 
 본 제품은 한글과컴퓨터의 한/글 문서 파일(.hwp) 공개 문서를 참고하여 개발하였습니다.
 
